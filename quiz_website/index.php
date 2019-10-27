@@ -2,8 +2,9 @@
 <!DOCTYPE html>
 <html>
 <head> 
+	<title>Login/Registration</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-	<body>
+	
 		<style type="text/css">
 			body{
 				background-image: url(images/1.jpg);
@@ -16,8 +17,8 @@
 </head>
 <body>
 
-	<div class="container mt-5">
-		<center><h1 class="text-center text-light bg-dark" style ="width:250px; ">Quiz World!</h1></center>
+	<div class="container mt-5 mb-4">
+		<center><h1 class="text-center text-light bg-secondary" style ="width:250px; ">Quiz World!</h1></center>
 		<div class="login-box" style="max-width: 1000px; float:none; margin: 150px auto; ">
 			
 		<div class="row">
